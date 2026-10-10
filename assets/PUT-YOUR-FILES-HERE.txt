@@ -1,0 +1,13 @@
+Put these files in this folder (names must match exactly, lowercase):
+
+birthday-animation.mp4
+candle-confetti.mp4
+birthday-music.mp3
+balloon-pop.mp3
+memory-1.jpg
+memory-2.jpg
+memory-3.jpg
+memory-4.jpg
+birthday-portrait.png
+
+Then delete this txt file.
